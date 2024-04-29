@@ -10,3 +10,5 @@
 7. Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA.
 
 Corresponding author's email: carmenescobedolucea@gmail.com and ansanz@usal.es 
+
+https://github.com/btelab/virtual_tissuebank/blob/main/VideoS1_Motorized_Turntable.mp4
