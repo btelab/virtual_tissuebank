@@ -12,7 +12,7 @@
 Corresponding author's email: carmenescobedolucea@gmail.com and ansanz@usal.es 
 
 <div align="center">
-    <img src="00_graph_abstract.png" alt="Graphical Abstract" style="width:100%; max-width:100px;">
+    <img src="00_graph_abstract.png" alt="Graphical Abstract">
 </div>
 
 ## Supplementary Videos
