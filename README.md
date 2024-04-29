@@ -11,6 +11,10 @@
 
 Corresponding author's email: carmenescobedolucea@gmail.com and ansanz@usal.es 
 
+<div align="center">
+    <img src="00_graph_abstract.png" alt="Graphical Abstract" style="width:55%; max-width:55px;">
+</div>
+
 ## Supplementary Videos
 
 #### Video S1. Photogrammetric 3D scanning workflow with a homemade motorized turntable.
