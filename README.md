@@ -11,8 +11,17 @@
 
 Corresponding author's email: carmenescobedolucea@gmail.com and ansanz@usal.es 
 
-<video width="320" height="240" controls>
-    <source src="VideoS1_Motorized_Turntable.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-</video>
+## Supplementary Videos
+#### Video S1. 
+<div align="center">
+    <video width="320" height="240" controls>
+        <source src="VideoS1_Motorized_Turntable.mp4" type="video/mp4">
+    </video>
+</div>
 
+#### Video S2. 
+<div align="center">
+    <video width="320" height="240" controls>
+        <source src="VideoS2_Manual_Turntable.mp4" type="video/mp4">
+    </video>
+</div>
