@@ -12,16 +12,16 @@
 Corresponding author's email: carmenescobedolucea@gmail.com and ansanz@usal.es 
 
 ## Supplementary Videos
-#### Video S1. 
+#### Video S1. Photogrammetric 3D scanning workflow with homemade motorized turntable.
 <div align="center">
-    <video width="320" height="240" controls>
+    <video width="640" height="480" controls>
         <source src="VideoS1_Motorized_Turntable.mp4" type="video/mp4">
     </video>
 </div>
 
-#### Video S2. 
+#### Video S2. 3D scanning with structured light device with homemade non-motorized turntable.
 <div align="center">
-    <video width="320" height="240" controls>
+    <video width="640" height="480" controls>
         <source src="VideoS2_Manual_Turntable.mp4" type="video/mp4">
     </video>
 </div>
