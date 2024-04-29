@@ -11,4 +11,8 @@
 
 Corresponding author's email: carmenescobedolucea@gmail.com and ansanz@usal.es 
 
-https://github.com/btelab/virtual_tissuebank/blob/main/VideoS1_Motorized_Turntable.mp4
+<video width="320" height="240" controls>
+    <source src="VideoS1_Motorized_Turntable.mp4" type="video/mp4">
+    Tu navegador no soporta el elemento de video.
+</video>
+
